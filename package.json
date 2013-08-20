@@ -1,0 +1,27 @@
+{
+  "name": "mtGOX-APIWrapper",
+  "version": "1.0.0",
+  "description": "mtGOX API Wrapper for Node.js",
+  "keywords": [
+    "btc",
+    "bitcoin",
+    "mtgox"
+  ],
+  "author": "Kyle Koopman (https://github.com/holoverse)",
+  "license": "n/a",
+  "dependencies": {
+    "querystring": "0.2.0",
+    "JSONStream": "0.6.4",
+    "request": "2.21.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ameen3/node-mtgox-apiv2"
+  },
+  "main": "mtgox.js",
+  "engines": {
+    "node": "~0.10"
+  },
+ 
+  "readmeFilename": "README.md"
+}
