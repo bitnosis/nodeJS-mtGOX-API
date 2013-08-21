@@ -12,7 +12,9 @@
   "dependencies": {
     "querystring": "0.2.0",
     "JSONStream": "0.6.4",
-    "request": "2.21.0"
+    "request": "2.21.0",
+    "express": "3.3.5",
+    "jade": "*"
   },
   "repository": {
     "type": "git",
