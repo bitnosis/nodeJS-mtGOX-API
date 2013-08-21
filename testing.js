@@ -1,4 +1,4 @@
-var theClient = require("./mtgox");
+var theClient = require("./theapi");
 var client = new theClient("my_key", "my_secret");
 
 
