@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ameen3/node-mtgox-apiv2"
+    "url": "https://github.com/holoverse/nodeJS-mtGOX-API"
   },
   "main": "mtgox.js",
   "engines": {
